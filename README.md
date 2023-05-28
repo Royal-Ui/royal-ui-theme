@@ -1,59 +1,31 @@
-<ol dir="auto">
-<li> First of all, you need to buy the theme from <a href="https://www.buymeacoffee.com/itztxs/e/133988?from_page=home" rel="nofollow">purchase page</a>
-</li><li> Then first restore the <strong>blank.xml</strong>. <br>
-A sample blank.xml is provided here.
-<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>
-&lt;?xml version="1.0" encoding="UTF-8" ?&gt;
-&lt;!DOCTYPE html&gt;
-&lt;html b:css='false' b:js='false' b:defaultwidgetversion='2' b:layoutsVersion='3'&gt;
-&lt;b:attr name='xmlns' value=''/&gt;
-&lt;b:attr name='xmlns:b' value=''/&gt;
-&lt;b:attr name='xmlns:expr' value=''/&gt;
-&lt;b:attr name='xmlns:data' value=''/&gt;
-&lt;head&gt;
-&lt;title&gt;&lt;data:blog.pageTitle/&gt;&lt;/title&gt;
-&lt;b:skin/&gt;
-&lt;/head&gt;
-&lt;body&gt;
-&lt;b:section id='1'/&gt;
-&lt;/body&gt;
-&lt;/html&gt;
-</code></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
-    <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w" value="
-<?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; ?>
-<!DOCTYPE html>
-<html b:css='false' b:js='false' b:defaultwidgetversion='2' b:layoutsVersion='3'>
-<b:attr name='xmlns' value=''/>
-<b:attr name='xmlns:b' value=''/>
-<b:attr name='xmlns:expr' value=''/>
-<b:attr name='xmlns:data' value=''/>
-<head>
-<title><data:blog.pageTitle/></title>
-<b:skin/>
-</head>
-<body>
-<b:section id='1'/>
-</body>
-</html>" tabindex="0" role="button">
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon m-2">
-    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
-</svg>
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none m-2">
-    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
-</svg>
-    </clipboard-copy>
-  </div></div>
-</li><li> Then apply the base theme. <br>
-<h3 tabindex="-1" dir="auto"><a id="user-content-documentations" class="anchor" aria-hidden="true" href="#documentations"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Documentations</h3>
-<p dir="auto">According to DMCA guidelines, Royal ui strictly uses its own code and encrypts them as per the rules. <br>
-The FAQs regarding the theme are listed well at <a href="https://www.buymeacoffee.com/itztxs/e/133988?from_page=home" rel="nofollow">FAQ SECTION</a> <br></p>
-<h3 tabindex="-1" dir="auto"><a id="user-content-changelogs" class="anchor" aria-hidden="true" href="#changelogs"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Changelogs</h3>
-<p dir="auto">A view on changelogs has been updated <a href="docs.royal-ui.xyz" rel="nofollow">here</a></p>
-<h3 tabindex="-1" dir="auto"><a id="user-content-purchase" class="anchor" aria-hidden="true" href="#purchase"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Purchase</h3>
-<p dir="auto"><a href="https://www.buymeacoffee.com/itztxs/e/133988?from_page=home" rel="nofollow">Purchase Page</a></p>
-<div align="right" dir="auto">
-<table><tbody><tr><td>
-<a href="#start-of-content">↥ Scroll To Top</a>
-</td></tr></tbody></table>
-</div>
-</li></ol>
+### Hi there 👋
+
+I am Samir, a **UI/UX Web Designer** And Also **Graphic Designer** Having around 5+ years of experience in full-stack web development, but since 2021, I'm professionally working as a Frontend And Backend Developer.
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/Heartless.Boy.No.Love)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Unknown_Web_Designer)
+[![Website](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://www.itz-txs.com)
+
+## Skills
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![jquery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+
+## 📝 Top Blog Posts
+
+-   [Stylish dynamic ui greetings](https://www.itz-txs.com/2023/05/how-to-add-dynamic-stylish-greetings.html)
+-   [Add Proper Working Bookmark](https://www.itz-txs.com/2023/05/how-to-add-proper-working-bookmark.html)
+-   Etc Etc More Posts.....
+
+## Stats
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Royal-Ui&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Royal-Ui&hide=TeX&layout=compact&theme=prussian)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Royal-Ui.Royal-Ui)
