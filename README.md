@@ -1,4 +1,4 @@
-### Hi there 👋
+<center><h2>Hi there 👋</h2></center>
 
 I am Samir, a **UI/UX Web Designer** And Also **Graphic Designer** Having around 5+ years of experience in full-stack web development, but since 2021, I'm professionally working as a Frontend And Backend Developer.
 
@@ -25,7 +25,7 @@ I am Samir, a **UI/UX Web Designer** And Also **Graphic Designer** Having around
 
 ## Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Royal-Ui&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Royal-Ui&theme=tokyonight&border_radius=10)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Royal-Ui&hide=TeX&layout=compact&theme=prussian)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Royal-Ui.Royal-Ui)
